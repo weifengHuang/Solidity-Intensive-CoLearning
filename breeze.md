@@ -17,7 +17,7 @@ of course
 <!-- Content_START -->
 
 ### 2024.09.23
-测试权限
+I studied lessons 01-03 of the Solidity 101 course from WTF Academy and completed the corresponding tasks
 ### 
 
 <!-- Content_END -->
