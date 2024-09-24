@@ -17,7 +17,7 @@ of course
 <!-- Content_START -->
 
 ### 2024.09.23
-测试权限
+- complete Solidity 101 01-03 and complete the test;
 ### 
 
 <!-- Content_END -->
