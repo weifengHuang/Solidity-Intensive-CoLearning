@@ -17,7 +17,7 @@ of course
 <!-- Content_START -->
 
 ### 2024.09.23
-- complete Solidity 101 01-03 and complete the test;
+I studied lessons 01-03 of the Solidity 101 course from WTF Academy and completed the corresponding tasks
 ### 
 
 <!-- Content_END -->
